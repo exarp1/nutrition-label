@@ -1,2 +1,8 @@
 # nutrition-label
-# nutrition-label This is an ice cream survey form specified in the user-stories given in the Certification Project 'Survey Form'  It is part of the **(New) Responsive Web Design** Course at [freeCodeCamp.org](freeCodeCamp.org)  view the project live at: https://exarp1.github.io/icecream-survey/  (screenshot of browser zoomed out to 20% in order to show structure) ![image](https://user-images.githubusercontent.com/12552884/188054193-6236620c-23a3-4329-92ff-fec49643d9ab.png)
+This is a nutrition label mockup  using pseudo-selectors and a great deal of css formatting.
+
+It is part of the **(New) Responsive Web Design** Course at [freeCodeCamp.org](freeCodeCamp.org)  
+
+view the project live at: https://exarp1.github.io/nutrition-label/  
+
+<img width="297" alt="image" src="https://user-images.githubusercontent.com/12552884/188580165-03e7ca7e-95d7-40b6-ae30-97eae5472ea4.png">
